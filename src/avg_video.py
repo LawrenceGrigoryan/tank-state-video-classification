@@ -55,15 +55,8 @@ def avg_video(clip_path: str,
                 max_frame = np.maximum(frame, max_frame)
                 min_frame = np.minimum(frame, min_frame)
         num_frames += 1
-        # if num_frames == 1 or num_frames % 1000 == 0 or num_frames >= max_frames:
-        #     print(f"Processed frame {num_frames}/{max_frames}")
         if num_frames >= max_frames:
             break
-
-    if not output_path:
-        output_image = clip_path + "." + mode + ".jpg"
-    else:
-        output_image = output_path
 
     if mode == "average":
         average_frame /= num_frames
@@ -82,9 +75,12 @@ def avg_video(clip_path: str,
                 np.array([np.median(median_frame, axis=0)]),
                 axis=0,
             )
-        # cv2.imwrite(output_image, np.median(median_median_frame, axis=0))
         median_median_frame = np.median(median_median_frame, axis=0)
         output_frame = median_median_frame
 
     cap.release()
+    output_frame = cv2.cvtColor(output_frame, cv2.COLOR_BGR2RGB)
+    if output_path:
+        cv2.imwrite(output_path, output_frame)
+
     return output_frame
