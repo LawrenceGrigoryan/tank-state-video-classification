@@ -3,16 +3,18 @@ import pathlib
 import pickle
 
 import torchvision
+import torch
 import numpy as np
 import onnxruntime as ort
 
 from .avg_video import avg_video
 
 warnings.filterwarnings("ignore")
+torch.set_num_threads(4)
 
 DEVICE = 'cpu'
 ID2LABEL_PATH = pathlib.Path(__file__).parent.joinpath('id2label.pkl')
-ONNX_MODEL_PATH = pathlib.Path(__file__).parent.joinpath('mobilenet_v3_v1.onnx')
+ONNX_MODEL_PATH = pathlib.Path(__file__).parent.joinpath('mnv3.onnx')
 
 
 def load_onnx_model():

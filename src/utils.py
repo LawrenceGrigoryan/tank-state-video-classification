@@ -6,15 +6,16 @@ import cv2
 import torch
 import numpy as np
 
-onnx_sample_path = 'sample_onnx.pkl'
+ONNX_SAMPLE_PATH = Path(__file__).parent.joinpath('sample_onnx.pkl')
 
 
 def read_clip(odir: Path,
               fname: str,
               start: int = 0,
               transposed: bool = True):
-    """Прочесть ролик в массив."""
-
+    """
+    Read a video and return its frames
+    """
     cpr = cv2.VideoCapture(odir.joinpath(fname).as_posix())
     has_frame = True
     frames = []
@@ -33,8 +34,11 @@ def read_clip(odir: Path,
 
 def save2onnx(model: torch.nn.Module,
               model_path: str) -> NoReturn:
+    """
+    Save model to ONNX format
+    """
     # Read sample
-    with open(onnx_sample_path, 'rb') as fp:
+    with open(ONNX_SAMPLE_PATH, 'rb') as fp:
         sample = pickle.load(fp)
 
     model.eval()

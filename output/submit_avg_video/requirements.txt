@@ -14,3 +14,4 @@ torchinfo==1.8.0
 torchvision==0.15.2+cpu
 onnx==1.14.0
 onnxruntime==1.15.0
+git+https://github.com/okankop/vidaug
