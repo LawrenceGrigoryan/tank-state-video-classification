@@ -6,6 +6,11 @@ __pycache__
 # C extensions
 *.so
 
+# data
+data/train_np
+models/
+*.zip
+
 # Distribution / packaging
 .Python
 build/

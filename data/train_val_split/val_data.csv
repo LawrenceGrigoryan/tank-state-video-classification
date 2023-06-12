@@ -1,0 +1,177 @@
+fname,label,place,location,camera_id,comment
+05a2f0b1101a474a.npy,bridge_down,inside,gate,0,None
+08e4c533f1d56db9.npy,bridge_down,inside,gate,0,None
+0d46339066ad7a37.npy,bridge_down,inside,gate,0,None
+2237d8df2d0c422d.npy,bridge_down,inside,gate,0,None
+224db4f02d9e979c.npy,bridge_down,inside,gate,0,None
+258138cc5a3be54a.npy,bridge_down,inside,gate,0,None
+399f54c8c028792e.npy,bridge_down,inside,gate,0,None
+39e219921d3535e4.npy,bridge_down,inside,gate,0,None
+4647d4a97ffeb55b.npy,bridge_down,inside,gate,0,None
+470585b260d3ef77.npy,bridge_down,inside,gate,0,None
+5ffa787ca9989f47.npy,bridge_down,inside,gate,0,None
+6edfb18ca69cae9c.npy,bridge_down,inside,gate,0,None
+7158a58ce20fb3de.npy,bridge_down,inside,gate,0,None
+7d407600e6edcc62.npy,bridge_down,inside,gate,0,None
+7db2903b164ed571.npy,bridge_down,inside,gate,0,None
+86b88217582dc8c3.npy,bridge_down,inside,gate,0,None
+88c00402cdad6b36.npy,bridge_down,inside,gate,0,None
+97d3ecee145d3a24.npy,bridge_down,inside,gate,0,None
+9d50e44b89966e27.npy,bridge_down,inside,gate,0,None
+9e99a661e7a8cd04.npy,bridge_down,inside,gate,0,None
+a10a5dbbca9f6b33.npy,bridge_down,inside,gate,0,None
+a1321daa20490dbf.npy,bridge_down,inside,gate,0,None
+a96b1b30e77eac27.npy,bridge_down,inside,gate,0,None
+ae295de15f8358bb.npy,bridge_down,inside,gate,0,None
+ae6fa1f1252da9ad.npy,bridge_down,inside,gate,0,None
+c0a96c60c026fb6c.npy,bridge_down,inside,gate,0,None
+c70f3ea7e16767db.npy,bridge_down,inside,gate,0,None
+c80c3de7fddb2847.npy,bridge_down,inside,gate,0,None
+d0935649e08fb892.npy,bridge_down,inside,gate,0,None
+d151e21e9ec252dd.npy,bridge_down,inside,gate,0,None
+dbf1253a08c5cd09.npy,bridge_down,inside,gate,0,None
+f041d39d6560d650.npy,bridge_down,inside,gate,0,None
+0709a815e5c94e23.npy,bridge_up,inside,gate,0,None
+31407f1d72d5d857.npy,bridge_up,inside,gate,0,None
+409aad57d084bc6e.npy,bridge_up,inside,gate,0,None
+74e366d08cd06039.npy,bridge_up,inside,gate,0,None
+a17d6f493042e9c1.npy,bridge_up,inside,gate,0,None
+b4aba7e191ad9de0.npy,bridge_up,inside,gate,0,None
+bcd0b5a94bdfd8db.npy,bridge_up,inside,gate,0,None
+bd489c88a046af92.npy,bridge_up,inside,gate,0,None
+e9dcb3adde46fcf0.npy,bridge_up,inside,gate,0,None
+03b8033d6d547574.npy,no_action,inside,gate,0,None
+0f4c86beb84b2eca.npy,no_action,inside,gate,0,None
+25736d9c2b514c8d.npy,no_action,inside,gate,0,None
+088d91a5d5de25f4.npy,train_in_out,inside,gate,0,None
+621b1a0f13b27229.npy,train_in_out,inside,gate,0,None
+68c64df10445214a.npy,train_in_out,inside,gate,0,None
+c1d65fcbf8376f0e.npy,train_in_out,inside,gate,0,None
+ccc5f58aa6de100b.npy,train_in_out,inside,gate,0,None
+e0351f88ed52db65.npy,train_in_out,inside,gate,0,None
+01a9dd89287598bb.npy,bridge_down,inside,rusty_bridge,0,None
+099cf6cd342bf8c5.npy,bridge_down,inside,rusty_bridge,0,None
+0a067d726aba2db6.npy,bridge_down,inside,rusty_bridge,0,None
+0f3206c95e98c59a.npy,bridge_down,inside,rusty_bridge,0,None
+0fb85ca2b19859f6.npy,bridge_down,inside,rusty_bridge,0,None
+2848ff501b75dd18.npy,bridge_down,inside,rusty_bridge,0,None
+32879d6b188bcf4b.npy,bridge_down,inside,rusty_bridge,0,None
+3a976d3d906f5358.npy,bridge_down,inside,rusty_bridge,0,None
+4ad9d1894a83c9b7.npy,bridge_down,inside,rusty_bridge,0,None
+57992818ebe361ac.npy,bridge_down,inside,rusty_bridge,0,None
+59867be7dbd8437d.npy,bridge_down,inside,rusty_bridge,0,None
+5a4bacee9540ca8d.npy,bridge_down,inside,rusty_bridge,0,None
+611a989fdd78c188.npy,bridge_down,inside,rusty_bridge,0,None
+67f1dd5714c3b98e.npy,bridge_down,inside,rusty_bridge,0,None
+701a5f86a8306a33.npy,bridge_down,inside,rusty_bridge,0,None
+745e4c4d7c85e882.npy,bridge_down,inside,rusty_bridge,0,None
+7dd3c1033fdd2acb.npy,bridge_down,inside,rusty_bridge,0,None
+92848c13f18c8442.npy,bridge_down,inside,rusty_bridge,0,None
+a3416b7bf6cfdbc3.npy,bridge_down,inside,rusty_bridge,0,None
+b25c26b1ebf95ca7.npy,bridge_down,inside,rusty_bridge,0,None
+c19a602aa220c87d.npy,bridge_down,inside,rusty_bridge,0,None
+c775e7c5a068f5ec.npy,bridge_down,inside,rusty_bridge,0,None
+c8ae896654aedc03.npy,bridge_down,inside,rusty_bridge,0,None
+ca3557e870109ef0.npy,bridge_down,inside,rusty_bridge,0,None
+cadf5770f510e985.npy,bridge_down,inside,rusty_bridge,0,None
+cca3a1c36a9e7f36.npy,bridge_down,inside,rusty_bridge,0,None
+d4993421ab473491.npy,bridge_down,inside,rusty_bridge,0,None
+ea5f0548a0c1f262.npy,bridge_down,inside,rusty_bridge,0,None
+f1cd4507cf18ab7d.npy,bridge_down,inside,rusty_bridge,0,None
+fd39f2310c767b93.npy,bridge_down,inside,rusty_bridge,0,None
+009348946266095a.npy,bridge_up,inside,rusty_bridge,0,None
+255c69baaf885747.npy,bridge_up,inside,rusty_bridge,0,None
+5eb3506565e9ff46.npy,bridge_up,inside,rusty_bridge,0,None
+71c1d326794f7b48.npy,bridge_up,inside,rusty_bridge,0,None
+802ce0f6fcc32ecb.npy,bridge_up,inside,rusty_bridge,0,None
+a08510359964c8f9.npy,bridge_up,inside,rusty_bridge,0,None
+a3e42eb651728430.npy,bridge_up,inside,rusty_bridge,0,None
+a536511a19c61e7b.npy,bridge_up,inside,rusty_bridge,0,None
+359d8994e59bc4c2.npy,no_action,inside,rusty_bridge,0,None
+94ef8340f6d675f3.npy,no_action,inside,rusty_bridge,0,None
+b544059b980f4535.npy,no_action,inside,rusty_bridge,0,None
+1722443d154fd587.npy,train_in_out,inside,rusty_bridge,0,None
+2d84ca48e2c5d664.npy,train_in_out,inside,rusty_bridge,0,None
+a37a81829637dcd8.npy,train_in_out,inside,rusty_bridge,0,None
+b48ba537f6df6d66.npy,train_in_out,inside,rusty_bridge,0,None
+d1c4650144cc18be.npy,train_in_out,inside,rusty_bridge,0,None
+082144bb2989411c.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+0894945545d363c8.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+09d889aa5ce5b662.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+0b1c677c9abaca06.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+281049c9d161da8b.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+3010288723478f4e.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+4429f491d8800d9a.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+483366b32404c4e7.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+4bb99c6dc46a9f7f.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+4d4c1f206138faae.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+4d5c91343dfb7241.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+4e7421c353e9f23c.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+544d4349a8141fc9.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+55d55c7f4eabc7b0.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+5d37403173c24460.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+60da83fe0bb454bf.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+60f4ba30ed3d860d.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+65919f83189c5b84.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+7656ebe62d0906bd.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+79bed5f7abb38f8d.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+812e338b4e4f9fdf.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+9109ce750de25c90.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+9836bb677b7a6d28.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+9e445dea6b141e8b.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+a1e248f15302ae10.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+a8766f6bd562a394.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+ae33df24bc79c858.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+c03432d8c458375e.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+c64abea2d2437470.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+cb97436e69121e2b.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+d606865a8dce4179.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+d6be86768fa129b8.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+dcc7636e6b7b7ea1.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+ee7889c1868fd8d2.npy,bridge_down,inside,turquoise_bridge,0,focused on the bridge
+028addb2431dbe90.npy,bridge_down,inside,turquoise_bridge,1,wide position
+07a267d061839a0c.npy,bridge_down,inside,turquoise_bridge,1,wide position
+1544718dfaffcb59.npy,bridge_down,inside,turquoise_bridge,1,wide position
+1597a805f0d55280.npy,bridge_down,inside,turquoise_bridge,1,wide position
+1f6ae172b0d48608.npy,bridge_down,inside,turquoise_bridge,1,wide position
+2c06b1caaaf1b869.npy,bridge_down,inside,turquoise_bridge,1,wide position
+2ed1d2e5c06d5472.npy,bridge_down,inside,turquoise_bridge,1,wide position
+35d19c7f40fb30c4.npy,bridge_down,inside,turquoise_bridge,1,wide position
+38ee07c62e15a400.npy,bridge_down,inside,turquoise_bridge,1,wide position
+3c6e818cbb7dcaf8.npy,bridge_down,inside,turquoise_bridge,1,wide position
+443333970a7dece5.npy,bridge_down,inside,turquoise_bridge,1,wide position
+5b9b376f466ee0ec.npy,bridge_down,inside,turquoise_bridge,1,wide position
+6023ca72e0848ad7.npy,bridge_down,inside,turquoise_bridge,1,wide position
+780dd314b9749b06.npy,bridge_down,inside,turquoise_bridge,1,wide position
+7de61bdc9d057b44.npy,bridge_down,inside,turquoise_bridge,1,wide position
+82ee6e72fba8f1e1.npy,bridge_down,inside,turquoise_bridge,1,wide position
+98861bd2978d75b6.npy,bridge_down,inside,turquoise_bridge,1,wide position
+b3d0791003bcd2d8.npy,bridge_down,inside,turquoise_bridge,1,wide position
+bb902f0eec95e7ab.npy,bridge_down,inside,turquoise_bridge,1,wide position
+ea1bf78e20cd4c63.npy,bridge_down,inside,turquoise_bridge,1,wide position
+fa1f3f145b30f087.npy,bridge_down,inside,turquoise_bridge,1,wide position
+fa47b56df3bdfa7c.npy,bridge_down,inside,turquoise_bridge,1,wide position
+fac67f4db51ba563.npy,bridge_down,inside,turquoise_bridge,1,wide position
+fafc061d753ff3e4.npy,bridge_down,inside,turquoise_bridge,1,wide position
+fc049029a5ba8904.npy,bridge_down,inside,turquoise_bridge,1,wide position
+03523b4960a0aa5f.npy,bridge_up,inside,turquoise_bridge,0,focused on the bridge
+0f0b303180728956.npy,bridge_up,inside,turquoise_bridge,0,focused on the bridge
+14931fce3c22084f.npy,bridge_up,inside,turquoise_bridge,0,focused on the bridge
+0deae38596fcef18.npy,bridge_up,inside,turquoise_bridge,1,wide position
+14660a902804c492.npy,bridge_up,inside,turquoise_bridge,1,wide position
+18f3d3849f49eb50.npy,bridge_up,inside,turquoise_bridge,1,wide position
+590524ffcf1dfa75.npy,bridge_up,inside,turquoise_bridge,1,wide position
+61c5ae427509bc1d.npy,bridge_up,inside,turquoise_bridge,1,wide position
+7854f9d7acd677ae.npy,bridge_up,inside,turquoise_bridge,1,wide position
+870d3067ab534a57.npy,bridge_up,inside,turquoise_bridge,1,wide position
+98f55b2fffc83f9e.npy,bridge_up,inside,turquoise_bridge,1,wide position
+a547adde790d93ec.npy,bridge_up,inside,turquoise_bridge,1,wide position
+d7cbd916f72e71a1.npy,bridge_up,inside,turquoise_bridge,1,wide position
+f0df489b60804efa.npy,no_action,inside,turquoise_bridge,0,focused on the bridge
+42c2bda22052536c.npy,no_action,inside,turquoise_bridge,1,wide position
+4680e1a491f77263.npy,no_action,inside,turquoise_bridge,1,wide position
+5f64fa2034db489f.npy,no_action,inside,turquoise_bridge,1,wide position
+92ca045758418ed6.npy,train_in_out,inside,turquoise_bridge,0,focused on the bridge
+b6e27216146d8f01.npy,train_in_out,inside,turquoise_bridge,0,focused on the bridge
+2ce08918cccbf9d0.npy,train_in_out,inside,turquoise_bridge,1,wide position
+6a4034c2a6ae3927.npy,train_in_out,inside,turquoise_bridge,1,wide position
