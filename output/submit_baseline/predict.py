@@ -30,7 +30,5 @@ classifier = load(CLASSIFIER_FILE)
 
 
 def predict(clip: np.ndarray):
-    """Вычислить класс для этого клипа. Эта функция должна возвращать *имя* класса."""
-
     features = projector.transform(model(clip).numpy()).mean(axis=0, keepdims=True)
     return classifier.predict(features)[0]

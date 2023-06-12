@@ -34,10 +34,6 @@ model = load_onnx_model()
 
 
 def predict(clip: np.ndarray) -> str:
-    """
-    Вычислить класс для этого клипа.
-    Эта функция должна возвращать *имя* класса.
-    """
     # Get averaged video
     clip_avg = avg_video(clip, start=1, every_n_frame=every_n_frame)
     # Apply transforms

@@ -32,10 +32,6 @@ model = load_onnx_model()
 
 
 def predict(clip: np.ndarray) -> str:
-    """
-    Вычислить класс для этого клипа.
-    Эта функция должна возвращать *имя* класса.
-    """
     # Make number of frames consistent over videos
     frame_idx = np.linspace(0, clip.shape[0],
                             n_frames, endpoint=False).astype(int)
