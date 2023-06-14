@@ -43,4 +43,4 @@ Some observations that allowed us to obtain a generalizable model with such a si
 3. **Augmentations, augmentations and augmentations:** we used various types of image augmentations which really helped us to avoid overfitting
 4. **Higher weight decay:** our best model was trained with 0.1 weight decay (helps with overfitting on such a small dataset)
 5. **Manual train-val split:** we conducted EDA and noticed that not only the classes we are trying to predict are imbalanced but also camera locations, station types and some other conditions are imbalanced as well. So we manually created a train-val split which allowed us to both train a good model and also properly evaluate it on a representative validation set. The results of EDA are compiled into [dataset_located.xlsx](https://github.com/LawrenceGrigoryan/wagon-state-sibur/blob/main/data/dataset_located.xlsx)
-6. Finally, we converted our model to ONNX format and got a model that scores the whole test set in less than 5 minutes
+6. **ONNX:**: we converted our model to ONNX format and got a model that scores the whole test set in less than 5 minutes
