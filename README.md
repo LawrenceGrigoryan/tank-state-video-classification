@@ -33,6 +33,6 @@ https://github.com/LawrenceGrigoryan/wagon-state-sibur/assets/57874123/9a73dea5-
 ## Hypotheses tested
 
 1. Average a video into one frame and classify just this one image
-2. Classify whole videos (some frames from it) using a 3D convolutional network
+2. Classify whole videos (or some of its frames) using a 3D convolutional network
 3. Object detection and its post-processing to classify videos
 
