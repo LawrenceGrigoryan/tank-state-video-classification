@@ -1,4 +1,4 @@
-![poster](docs/poster.png)
+<img src="docs/poster.png" width="1000" height="400">
 
 This repository contains a solution for the video analytics challenge organized by Sibur Digital, which was held from May 20 to June 7, 2023. 
 It is required to develop an action recognition model to predict the current state of a railway tank. \
@@ -22,7 +22,9 @@ The key idea of the challenge is to develop a model that generalizes well on uns
 https://github.com/LawrenceGrigoryan/wagon-state-sibur/assets/57874123/9a73dea5-5bbc-4821-8cc4-4993bff50800
 
 
-## Team (`ararat_tennis_club` on leaderboard):
+## Team ("ararat_tennis_club" on [leaderboard](https://platform.aitoday.ru/event/9)):
+<img src="docs/leaderboard.png" width="500" height="400">
+
 - Lavrentiy Grigoryan (https://www.linkedin.com/in/lawrencegrigoryan/)
 - Vladislav Alekseev (https://www.linkedin.com/in/vladislav-alekseev/)
 - Galina Burdukovskaya (https://www.linkedin.com/in/galina-burdukovskaia-7502ab21a/)
@@ -30,7 +32,7 @@ https://github.com/LawrenceGrigoryan/wagon-state-sibur/assets/57874123/9a73dea5-
 
 ## Hypotheses tested
 
-1. Average a video to one frame and classify just this one averaged frame
+1. Average a video into one frame and classify just this one image
 2. Classify whole videos (some frames from it) using a 3D convolutional network
 3. Object detection and its post-processing to classify videos
 
