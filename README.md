@@ -1,4 +1,4 @@
-<img src="docs/poster.png" width="1000" height="400">
+<img src="assets/poster.png" width="1000" height="400">
 
 This repository contains a solution for the video analytics challenge organized by Sibur Digital, which was held from May 20 to June 7, 2023. 
 It was required to develop an action recognition model to predict the current state of a railway tank. \
@@ -9,7 +9,7 @@ The key idea of the challenge was to develop a model that generalizes well on un
 - **4th place** with 0.98884 F1 Macro
 
 ## Team ("ararat_tennis_club" on [leaderboard](https://platform.aitoday.ru/event/9)):
-<img src="docs/leaderboard.png" width="500" height="400">
+<img src="assets/leaderboard.png" width="500" height="400">
 
 - Lavrentiy Grigoryan (https://www.linkedin.com/in/lawrencegrigoryan/)
 - Vladislav Alekseev (https://www.linkedin.com/in/vladislav-alekseev/)
