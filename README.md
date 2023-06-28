@@ -24,7 +24,7 @@ The key idea of the challenge was to develop a model that generalizes well on un
 6. Model runs on edge devices (camera) using just one CPU
 7. Up to 18 minutes to score 1200 test videos (~0.9 sec for 1 video)
 
-<img src='https://gifs.com/embed/36qOoM' width='640px' height='480px'>
+<video src="assets/samples.mp4"></video>
 
 ## Hypotheses tested
 
