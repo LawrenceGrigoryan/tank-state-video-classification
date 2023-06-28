@@ -24,7 +24,7 @@ The key idea of the challenge was to develop a model that generalizes well on un
 6. Model runs on edge devices (camera) using just one CPU
 7. Up to 18 minutes to score 1200 test videos (~0.9 sec for 1 video)
 
-https://github.com/LawrenceGrigoryan/wagon-state-sibur/assets/57874123/5924fd97-4c2c-435a-b5e6-2f49c33c435e
+<iframe src='//gifs.com/embed/36qOoM' frameborder='0' scrolling='no' width='640px' height='480px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 ## Hypotheses tested
 
