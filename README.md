@@ -1,7 +1,7 @@
 <img src="assets/poster.png" width="1000" height="400">
 
 This repository contains a solution for the video analytics challenge organized by Sibur Digital, which was held from May 20 to June 7, 2023. 
-It was required to develop an action recognition model to predict the current state of a railway tank. \
+The task is to develop an action recognition model to predict the current state of a railway tank wagon. \
 The key idea of the challenge was to develop a model that generalizes well on unseen data using a small dataset.
 
 ## Results
